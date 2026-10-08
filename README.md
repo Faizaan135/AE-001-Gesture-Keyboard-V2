@@ -39,6 +39,9 @@ Redesign a previous wearable gesture-controlled keyboard prototype into a reliab
 - **Notion:** working journal, linked tasks and engineering decision tracking.
 - **Google Drive:** formal controlled PDFs, BOM sheets, photographs, raw measurements and business records.
 
+## Portfolio
+[ABBAS Engineering portfolio](https://Faizaan135.github.io/) — parent portfolio website. This project repository is the public engineering record, while formal files remain in Drive and project tracking remains in Notion.
+
 ## GitHub Pages
 The `docs/` folder includes a static project overview page. To publish the page, configure this repository at **Settings → Pages → Deploy from a branch → main → /docs → Save**.
 

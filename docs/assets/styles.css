@@ -3,3 +3,5 @@
 @media(max-width:850px){.grid,.grid.two{grid-template-columns:1fr 1fr}.workflow{grid-template-columns:1fr 1fr}.split{grid-template-columns:1fr}.hero{padding:4rem 0 3.5rem}}
 @media(max-width:560px){.grid,.grid.two,.workflow{grid-template-columns:1fr}section{padding:3.2rem 0}nav{padding:1rem}.hero{padding:3rem 0}.wrap{padding:0 1rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.skip-link{position:absolute;top:-100px;left:1rem;padding:.5rem 1rem;background:var(--cyan);color:#091421;z-index:30}.skip-link:focus{top:.5rem}.card-link{display:inline-block;font-weight:700;margin-top:.3rem}
